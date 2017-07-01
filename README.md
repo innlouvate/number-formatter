@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/innlouvate/number-formatter.svg?branch=master)](https://travis-ci.org/innlouvate/number-formatter) | [![Coverage Status](https://coveralls.io/repos/github/innlouvate/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/innlouvate/number-formatter?branch=master)
+
 # number-formatter
 
 Testing creating npm packages.
